@@ -112,6 +112,8 @@ sudo chmod +x install_bjorn.sh && sudo ./install_bjorn.sh
 |/web/index.html|
 |webapp.py|
 -----------------------------------------------------------
+ In your config file, set epd type to none:
+
 |(**shared_config.json**)|
 |-|
 | "epd_type": "none" |
